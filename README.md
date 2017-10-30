@@ -44,6 +44,11 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Bio: Student
 - Github: arfu786
 
+### Name:[Shashank Penukonda](https://github.com/pShashank)
+- Place: Bengaluru,Karnataka,India
+- Bio: Computer Science Student
+- Github: [Shashank Penukonda](https://github.com/pShashank)
+
 
 ### Name:[Adalberto Brant](https://github.com/adalbertobrant)
 -Place: Uberlândia, Brasil
