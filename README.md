@@ -54,3 +54,8 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: United States
 - Bio: Student
 - Github: [Zane Helton](https://github.com/zaneh)
+
+### Name: Shrey A.
+- Place: United States
+- Bio: Student
+- Youtube: [Shrey's Tech] (https://youtube.com/shreystechtips)
