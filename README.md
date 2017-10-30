@@ -54,3 +54,8 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: United States
 - Bio: Student
 - Github: [Zane Helton](https://github.com/zaneh)
+
+### Name: miwojc
+- Place: Github
+- Bio: Python developer
+- Github: [miwojc](https://github.com/miwojc)
