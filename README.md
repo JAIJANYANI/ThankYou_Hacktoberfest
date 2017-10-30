@@ -27,3 +27,9 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: Kannur,Kerala,India
 - Bio: Student
 - Github: arfu786
+
+
+### Name:[Adalberto Brant](https://github.com/adalbertobrant)
+-Place: Uberlândia, Brasil
+-Bio: Orthodontist & Freshman in Computer Science
+-GitHub: [Adalberto Brant](https://github.com/adalbertobrant)
