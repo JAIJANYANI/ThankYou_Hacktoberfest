@@ -22,6 +22,11 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Bio: undergrad at DTU
 - GitHub: [ANKIT GUPTA](https://github.com/Ayan137)
 
+#### Name: [Raj Keswani](https://github.com/raj-an)
+- Place: Delhi, India
+- Bio: Beginner Android Developer
+- GitHub: [Raj Keswani](https://github.com/raj-an)
+
 
 ### Name:[Arfad Kallil](https:github.com/arfu786)
 - Place: Kannur,Kerala,India
@@ -32,3 +37,10 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: Bengaluru,Karnataka,India
 - Bio: Computer Science Student
 - Github: [Shashank Penukonda](https://github.com/pShashank)
+
+
+
+### Name:Shubhangi Misra
+- Place :India
+- Bio: Student
+- Github: [Shubhangi Misra](https:github.com/Shubhangimisra)
