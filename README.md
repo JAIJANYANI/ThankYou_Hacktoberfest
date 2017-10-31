@@ -59,3 +59,8 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: Github
 - Bio: Python developer
 - Github: [miwojc](https://github.com/miwojc)
+
+### Name: Nischal
+- Place: India
+- Bio: CS Student
+- Github: [nischalbasuti](https://github.com/nischalbasuti)
