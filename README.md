@@ -69,3 +69,8 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: India
 - Bio: CS Student
 - Github: [nischalbasuti](https://github.com/nischalbasuti)
+
+### Name: echoskope	
+- Place: US
+- Bio: Engineer
+- Github: [echoskope](https://github.com/echoskope)
